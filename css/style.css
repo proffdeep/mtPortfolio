@@ -8696,7 +8696,7 @@ h1, h2, h3, h4, h5,
   width: 100%; }
   .ftco-about ul.about-info li {
     color: #fff;
-    font-size: 1.2rem;
+    /* font-size: 1.2rem; */
     list-style: none;
     margin-bottom: 10px; }
     .ftco-about ul.about-info li span {
@@ -8704,7 +8704,7 @@ h1, h2, h3, h4, h5,
       width: calc(100% - 130px); }
       .ftco-about ul.about-info li span:first-child {
         color: #fff;
-        font-weight: 600;
+        /* font-weight: 600; */
         /* color: #000000; */
         width: 130px; }
 
